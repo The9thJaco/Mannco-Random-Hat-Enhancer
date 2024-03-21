@@ -20,6 +20,9 @@
 // @grant        GM_openInTab
 // @grant        GM_xmlhttpRequest
 // @connect      *
+// @homepageURL  https://github.com/The9thJaco/Mannco-Random-Hat-Enhancer
+// @downloadURL  https://github.com/The9thJaco/Mannco-Random-Hat-Enhancer/blob/main/Random_Hat_Teller.user.js
+// @updateURL    https://github.com/The9thJaco/Mannco-Random-Hat-Enhancer/blob/main/Random_Hat_Teller.user.js
 // ==/UserScript==
 (function() {
     'use strict';
