@@ -1,13 +1,13 @@
 # STILL A WORK IN PROCESS
-# Mannco.Store Random Craft Hat Enhancer
+## Mannco.Store Random Craft Hat Enhancer
 
-## Description
+### Description
 Mannco.Store Random Craft Hat Enhancer is a browser extension that enhances the functionality of the seeing profit on a random craft hat on Mannco.Store.
 
-## Features
+### Features
 - TEST
 
-## Instalation
+### Instalation
 - Install [Tampermonkey](https://www.tampermonkey.net/). 
 - Open the script in [raw view](https://github.com/The9thJaco/Mannco-Random-Hat-Enhancer/blob/main/Random_Hat_Teller.user.js).
 - Install.
